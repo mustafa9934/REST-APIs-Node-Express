@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Apple MacBook Pro",
+    "description": "Powerful and sleek laptop from Apple",
+    "price": 2499,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Book",
+    "description": "Versatile 2-in-1 laptop from Samsung",
+    "price": 1599,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Dell XPS 13",
+    "description": "Compact and high-performance laptop from Dell",
+    "price": 1799,
+    "featured": true,
+    "company": "Dell"
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "description": "Business-oriented laptop with premium features",
+    "price": 2199,
+    "featured": false,
+    "company": "Lenovo"
+  },
+  {
+    "name": "Apple iPad Pro",
+    "description": "Powerful tablet from Apple",
+    "price": 1099,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Tab S7+",
+    "description": "High-end Android tablet from Samsung",
+    "price": 1299,
+    "featured": false,
+    "company": "Samsung"
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "description": "Affordable and reliable laptop from Dell",
+    "price": 899,
+    "featured": true,
+    "company": "Dell"
+  },
+  {
+    "name": "Lenovo Yoga C940",
+    "description": "Convertible laptop with premium build quality",
+    "price": 1499,
+    "featured": false,
+    "company": "Lenovo"
+  },
+  {
+    "name": "Apple iMac",
+    "description": "Stylish all-in-one desktop from Apple",
+    "price": 2299,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Odyssey G9",
+    "description": "Curved gaming monitor from Samsung",
+    "price": 1599,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Dell Alienware Aurora",
+    "description": "High-performance gaming desktop from Dell",
+    "price": 2799,
+    "featured": false,
+    "company": "Dell"
+  },
+  {
+    "name": "Lenovo Legion Y540",
+    "description": "Gaming laptop with powerful specs",
+    "price": 1299,
+    "featured": true,
+    "company": "Lenovo"
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "description": "Advanced smartwatch with health features",
+    "price": 499,
+    "featured": false,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Watch 4",
+    "description": "Fitness-focused smartwatch from Samsung",
+    "price": 349,
+    "featured": true,
+    "company": "Samsung"
+  },
+  {
+    "name": "Dell UltraSharp U2720Q",
+    "description": "Professional-grade 4K monitor from Dell",
+    "price": 799,
+    "featured": false,
+    "company": "Dell"
+  },
+  {
+    "name": "Lenovo Chromebook Duet",
+    "description": "Compact and portable 2-in-1 Chromebook",
+    "price": 349,
+    "featured": true,
+    "company": "Lenovo"
+  }
+]
